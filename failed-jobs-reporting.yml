@@ -270,13 +270,14 @@ issues:
   - "20672080634/*" #Build distribution
   - "20650757948/*" #Build distribution
   - "20632501680/*" #Build distribution
-  - "20564790227*" #External Infinispan IT
+  - "20564790227/*" #External Infinispan IT
   - "20661973126/*" #Forms IT
   - "20784060148/*" #Java Disctribution IT/UT
   - "20708346584/*" #Java Disctribution IT/UT
   - "20705091811/*" #Java Disctribution IT/U
   - "20817937709/*" #Migration Tests
   - "20498816854/*" #Quarkus IT
+  - "20917429333/*" #Quarkus IT
   - "20805333408/*" #Quarkus UT
   - "20860208684/*" #Test OLM installation
   - "20812628509/*" #Test OLM installation
