@@ -277,7 +277,6 @@ issues:
   - "20705091811/*" #Java Disctribution IT/U
   - "20817937709/*" #Migration Tests
   - "20498816854/*" #Quarkus IT
-  - "20917429333/*" #Quarkus IT
   - "20805333408/*" #Quarkus UT
   - "20860208684/*" #Test OLM installation
   - "20812628509/*" #Test OLM installation
