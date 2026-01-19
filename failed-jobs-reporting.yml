@@ -1645,3 +1645,10 @@ issues:
   resolves:
     - "17844722275/*"
     - "17844722169/*"
+- id: "forms-it-45554"
+  description: "Flaky error on ScriptAuthenticatorTest"
+  issue: 45554
+  resolves:
+    - "21043098885/*"
+    - "21028775424/*"
+    - "21003406479/*"
